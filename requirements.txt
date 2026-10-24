@@ -3,6 +3,10 @@ numpy
 pyarrow
 matplotlib
 seaborn
+scikit-learn
+scipy
+openpyxl
+statsmodels
 jupyter
 pytest
 ruff
